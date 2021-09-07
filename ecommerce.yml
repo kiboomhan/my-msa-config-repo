@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: important_key
+  secret: important_key_dummy
 
 gateway:
   ip: 127.0.0.1
