@@ -8,7 +8,8 @@ spring:
 
 token:
   expiration_time: 86400000
-  secret: important_key_dev2
+  # secret: important_key_dev2
+  secret: '{cipher}AQBrG5oAZyM94w+EYrCctCNsWJzGXZJPyU2XcZ84cWdHmzpTsgLTUtpGs4QUTQ5Dd4T1PIHz0osAKfF5Wl9l3uh5GD4Dvxku8UcSw5fBB5+nLV0zws1zv0kydYMj7CNCpsq9aL5ft0J80EMRUmCgGAXkoFeES9Sfn6nqacxH8w+cbKbiIaJto2/47IWhclqAwclgoZfe75yaVf4DxyVM+Rr3wb3EtvNxBZqqhOKWE0bvuV0Mnp6a4sT89hFHGzxgu4SbtFUbjvbTJ3BnhsxFHbtMaLzb9ardMPUzQ/3Rl7fLIhhfPCd99Rt7IDu9qSYTcUsp+VEsknMT8p/M9l85yAjLThw0R/CKqMYlKdIxmeC5q+Czjfm2ofQDFU+fllPtoFt+9PXcsjnS03i9KjT9j3IQ'
 
 gateway:
   ip: 127.0.0.1
