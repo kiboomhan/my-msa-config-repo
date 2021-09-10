@@ -15,4 +15,5 @@ gateway:
   ip: 127.0.0.1
 
 order-service:
-  url: http://127.0.0.1:8000/order/%s/orders
+  # url: http://127.0.0.1:8000/order/%s/orders
+  url: http://msa-app-order/order/%s/orders
